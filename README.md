@@ -1,4 +1,4 @@
-### Hi, I'm Izza 👋
+### Hi, I'm Youcef 👋
 
 Computer Science student at the University of Lille, building full-stack
 web apps and exploring the infrastructure that runs them.
