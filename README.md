@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Youcef 👋<br>Computer Science student at the University of Lille, building full-stack web apps and exploring the infrastructure that runs them.<br><br>💻 MERN Stack Developer — MongoDB, Express, React, Node.js<br>⚙️ DevOps Learner — CI/CD, containerization, infrastructure automation docker Kubernates<br>☁️ Cloud & Cybersecurity Enthusiast — always learning to build systems that scale securely<br>📫 Currently working on : -An Employee Management System (MERN stack) , Learning Spring Boot and Devops
+Hi, I'm Youcef 👋<br>Computer Science student at the University of Lille, building full-stack web apps and exploring the infrastructure that runs them.<br><br>💻 MERN Stack Developer — MongoDB, Express, React, Node.js<br>⚙️ DevOps Learner — CI/CD, containerization, infrastructure automation docker Kubernates<br>☁️ Cloud & Cybersecurity Enthusiast — always learning to build systems that scale securely<br>📫 Currently working on : -An Employee Management System (MERN stack) qnd Leqrning Devops
 
 
 ## 🌐 Socials:
