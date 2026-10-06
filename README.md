@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi, I'm Youcef 👋<br>Computer Science student at the University of Lille, building full-stack web apps and exploring the infrastructure that runs them.<br><br>💻 MERN Stack Developer — MongoDB, Express, React, Node.js<br>⚙️ DevOps Learner — CI/CD, containerization, infrastructure automation docker Kubernates<br>☁️ Cloud & Cybersecurity Enthusiast — always learning to build systems that scale securely<br>📫 Currently working on : -An Employee Management System (MERN stack) qnd Leqrning Devops
 
+Hi, I'm Youcef 👋<br>Computer Science student at the University of Lille, building full-stack web apps and exploring the infrastructure that runs them.<br><br>💻 MERN Stack Developer — MongoDB, Express, React, Node.js<br>⚙️ DevOps Learner — CI/CD, containerization, infrastructure automation docker Kubernates<br>☁️ Cloud & Cybersecurity Enthusiast — always learning to build systems that scale securely<br>📫 Currently working on : -An Employee Management System (MERN stack) qnd Leqrning Devops , and i'm looking for 3 months internship 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youcef-izza-982367355/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youcefizza948@gmail.com) 
